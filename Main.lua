@@ -6,7 +6,7 @@ local function Message(text)
 	});
 end
 
-Message("Project Cat is now fully discountinued, Join the discord to get update about new hub.")
+Message("Project Cat is back!.")
 
 if not _G.Reanimated then _G.Reanimated = false end
 if not _G.BotReanim then _G.BotReanim = false end
